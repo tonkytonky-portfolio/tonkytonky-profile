@@ -1,6 +1,9 @@
 # Profiles
 
-[ПИТОНТЬЮТОР](http://pythontutor.ru/profile/tonkytonky)
+[Stepik](https://stepik.org/users/653497)  
+[edX](https://profile.edx.org/u/AntonSamsonov)  
+[ПИТОНТЬЮТОР](http://pythontutor.ru/profile/tonkytonky)  
+[HTML Academy](https://htmlacademy.ru/profile/tonkytonky)  
 
 
 # Tools
